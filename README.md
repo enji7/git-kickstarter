@@ -7,3 +7,4 @@ Utility script for turning a local project into a GitHub project. Required steps
    * note: the local project's directory name and the repository name must be identical
  * change (cd) into the project's directory
  * execute `git-kickstarter.sh` from the project's directory
+   * pass your GitHub username as command line parameter
